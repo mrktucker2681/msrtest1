@@ -1,4 +1,4 @@
-### My first repository is awesome!
+### MyThis is my first repository and i think its awesome!
 
 I'm [Mark] and here is my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
