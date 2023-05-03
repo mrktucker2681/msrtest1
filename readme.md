@@ -9,10 +9,10 @@ My favorite color:
 
 I am currently learning:
 
-> [AWS SAA]
-> [AWS SAP]
-> [AWS Devops]
-> >[GITHUB]
+> > [AWS SAA]
+> > > [AWS SAP]
+> > > > [AWS Devops]
+> > > > > [GITHUB]
 
 
 Thank you so much for reading this! ☺
