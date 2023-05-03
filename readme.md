@@ -11,7 +11,7 @@ AWS SAA, AWS SAP, AWS Devops, GITHUB, JSON, Python
 
 I am currently looking for work in the AWS world, in either Solution Architect Associate, or DEVOPS
 
-My LinkedIn www.linkedin.com/in/mark.tucker81
+My LinkedIn www.linkedin.com/in/mark-tucker-9a136063
 
 
 Thank you so much for reading this! ☺
