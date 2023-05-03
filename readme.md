@@ -7,12 +7,7 @@ Welcome to my GITHUB page, here you will find out how I am getting on with my  j
 
 I am currently learning:
 
-> [AWS SAA]
-> [AWS SAP]
-> [AWS Devops]
-> [GITHUB]
-> [JSON]
-> [Python]
+AWS SAA, AWS SAP, AWS Devops, GITHUB, JSON, Python
 
 I am currently looking for work in the AWS world, in either Solutio architect associate, or devops
 
