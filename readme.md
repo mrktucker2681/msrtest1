@@ -3,16 +3,16 @@
 I'm [Mark] and here is my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
 
-My favorite color:
-
-> [Yellow]
+Welcome to my GITHUB page, here you will find out how i am getting on with my  journey in the AWS world.
 
 I am currently learning:
 
 > [AWS SAA]
 > [AWS SAP]
 > [AWS Devops]
-> [GITHUB]
+> [GITHUB]#
+> [JSON]
+> [Python]
 
 
 Thank you so much for reading this! ☺
