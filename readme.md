@@ -11,4 +11,10 @@ My favorite color:
 
 > [Yellow]
 
+I am currently learning:
+
+> [AWS SAA]
+> [AWS SAP]
+> [AWS Devops]
+
 Thank you so much for reading! ☺
