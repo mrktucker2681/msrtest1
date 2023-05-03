@@ -9,6 +9,9 @@ I am currently learning:
 
 AWS SAA, AWS SAP, AWS Devops, GITHUB, JSON, Python
 
-I am currently looking for work in the AWS world, in either Solutio architect associate, or devops
+I am currently looking for work in the AWS world, in either Solution Architect Associate, or DEVOPS
+
+My LinkedIn www.linkedin.com/in/mark.tucker81
+
 
 Thank you so much for reading this! ☺
